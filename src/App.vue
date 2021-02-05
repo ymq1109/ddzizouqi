@@ -36,6 +36,7 @@
 header img{
   width: 100%;
   height: 100%;
+  
 }
 article{
   width:70%;
