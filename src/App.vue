@@ -31,7 +31,7 @@
   left: 0;
   right: 0;
   bottom: 0;  
-   background: linear-gradient(90deg, #432C25, #432C25);
+  background: linear-gradient(90deg, #432C25, #432C25);
 }
 header img{
   width: 100%;
